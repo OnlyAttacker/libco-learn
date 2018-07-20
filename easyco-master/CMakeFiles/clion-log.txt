@@ -1,0 +1,4 @@
+Cannot generate into F:\easyco-master
+It is already used for project \mnt\f\libco-master
+
+Please either delete it manually or select another generation directory
